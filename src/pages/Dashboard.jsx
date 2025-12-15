@@ -60,7 +60,7 @@ const Dashboard = () => {
           <div>
             <h1 className="text-2xl font-bold text-gray-900">Financial Overview</h1>
             <p className="text-gray-600">
-              Welcome back, {user?.name}! Here's your financial summary.
+              Welcome, {user?.name}! Here's your financial summary.
             </p>
           </div>
           <button
